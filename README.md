@@ -68,7 +68,7 @@ npx cypress run --spec cypress/e2e/my_autotest.cy.js --browser chrome
 ```
 
 
-**👤 Автор:**
+**👨‍💻 Создатель:**
 
 Максим Олесов ([@Mxwave](https://t.me/Mxwave))
 
